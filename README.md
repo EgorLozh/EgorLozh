@@ -23,7 +23,7 @@
 
 - Языки Python, C#
 - Работа с базами данных (PostgreSQL, mySQL)
-- Разработка на Django и DjangoRestFramework
+- Разработка на Django (DjangoRestFramework), FastApi
 - ML (Pytorch, sklearn, pandas, numpy)
 - Работа с Git Bash
 - Разработка телеграм и вк ботов (pyTelebotApi, vkapi)
