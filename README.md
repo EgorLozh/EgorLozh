@@ -21,9 +21,9 @@
 **Навыки**:
 
 - Языки Python, C#
-- Работа с базами данных (PostgreSQL, mySQL)
-- Разработка на Django (DjangoRestFramework), FastApi
-- ML (Pytorch, sklearn, pandas, numpy)
+- Работа с базами данных (PostgreSQL, MongoDB, ClickHouse, mySQL)
+- Разработка на Django (DRF, Ninja), FastApi
+- ML (Pytorch, transformers, sklearn, pandas, numpy)
 - Работа с Git Bash
 - Разработка телеграм и вк ботов (pyTelebotApi, vkapi)
 - Разработка парсеров (request, BS4, Selenium)
